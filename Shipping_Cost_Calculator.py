@@ -1,4 +1,5 @@
  # Aquí hay una nueva actualización por <gmaitat>
+ # Here is another update by <gmaitat>
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
